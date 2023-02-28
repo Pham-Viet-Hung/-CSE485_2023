@@ -17,3 +17,4 @@ function connectDB()
   }
 
   return $conn;
+}
